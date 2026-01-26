@@ -216,6 +216,15 @@
         <mxCell id="oogeW-ANtYQBvTE_TiYb-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="vpn 21" vertex="1">
           <mxGeometry height="30" width="60" x="1120" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="oogeW-ANtYQBvTE_TiYb-74" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="320" width="720" x="480" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="oogeW-ANtYQBvTE_TiYb-75" parent="oogeW-ANtYQBvTE_TiYb-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Avatar" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oogeW-ANtYQBvTE_TiYb-76" parent="oogeW-ANtYQBvTE_TiYb-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AS 65003" vertex="1">
+          <mxGeometry height="30" width="60" x="195" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
