@@ -217,7 +217,7 @@
           <mxGeometry height="30" width="60" x="1120" y="130" as="geometry" />
         </mxCell>
         <mxCell id="oogeW-ANtYQBvTE_TiYb-74" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="320" width="720" x="530" y="480" as="geometry" />
+          <mxGeometry height="320" width="720" x="480" y="480" as="geometry" />
         </mxCell>
         <mxCell id="oogeW-ANtYQBvTE_TiYb-75" parent="oogeW-ANtYQBvTE_TiYb-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Avatar" vertex="1">
           <mxGeometry height="30" width="60" x="20" y="10" as="geometry" />
@@ -325,6 +325,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="229.5999999999999" y="9.600000000000136" as="sourcePoint" />
             <mxPoint x="370.5999999999999" y="85.60000000000014" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oogeW-ANtYQBvTE_TiYb-101" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oogeW-ANtYQBvTE_TiYb-79" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="862" y="280" as="sourcePoint" />
+            <mxPoint x="900.5999999999999" y="565.6000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
